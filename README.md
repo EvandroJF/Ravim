@@ -1,3 +1,8 @@
+Para o login 
+
+email:  Admin@teste.com 
+senha: 123
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -33,5 +38,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-email:  Admin@teste.com 
-senha: 123
+
